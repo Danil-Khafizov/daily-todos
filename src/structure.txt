@@ -1,0 +1,31 @@
+Структура папок
+Серийный номер тома: 0873-9491
+C:.
+|   App.js
+|   App.test.js
+|   index.js
+|   reportWebVitals.js
+|   setupTests.js
+|   structure.txt
+|   
++---api
+|       api.js
+|       
++---assets
+|       logo.svg
+|       
++---components
+|       AuthForm.jsx
+|       DraggableTodoItem.jsx
+|       MainApp.jsx
+|       TodoContainer.jsx
+|       TodoItem.jsx
+|       TodoList.jsx
+|       
++---styles
+|       App.css
+|       index.css
+|       
+\---utils
+        confettiCelebrate.js
+        
